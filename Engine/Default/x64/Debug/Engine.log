@@ -1,0 +1,4 @@
+﻿  Base.cpp
+     ..\Bin\Engine.lib 라이브러리 및 ..\Bin\Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> D:\정의훈\106\FrameWork\Engine\Default\..\Bin\Engine.dll
+  Engine.vcxproj -> ..\Bin\Engine.pdb (Full PDB)
